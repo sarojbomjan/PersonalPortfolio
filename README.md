@@ -2,7 +2,6 @@
 
 Welcome to my professional portfolio built with Next.js! This showcase highlights my skills, projects, and professional journey.
 
-
 ## 🚀 Features
 
 - ⚡ Blazing fast performance with Next.js 13+
@@ -32,3 +31,4 @@ Welcome to my professional portfolio built with Next.js! This showcase highlight
 1. Clone the repository:
    ```bash
    git clone https://github.com/sarojbomjan/PersonalPortfolio.git
+   ```
