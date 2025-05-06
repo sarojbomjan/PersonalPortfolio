@@ -2,7 +2,6 @@
 
 Welcome to my professional portfolio built with Next.js! This showcase highlights my skills, projects, and professional journey.
 
-![Portfolio Screenshot](./public/screenshot.png) <!-- Add a screenshot later -->
 
 ## 🚀 Features
 
